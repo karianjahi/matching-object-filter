@@ -41,7 +41,7 @@ whatIsInAName(
 ```
 
 ## 🛠 How It Works
-`. Convert the source object into a list of combined "key + value" strings
+1. Convert the source object into a list of combined "key + value" strings
 
 Example:
 ```js
